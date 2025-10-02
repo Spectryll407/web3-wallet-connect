@@ -48,7 +48,7 @@ A **modern, responsive Web3 wallet connection interface** built with **Next.js 1
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/moazamtech/web3-wallet-connect.git
+   git clone https://github.com/Spectryll407/web3-wallet-connect.git
    cd web3-wallet-connect
    Install dependencies
 bashnpm install
